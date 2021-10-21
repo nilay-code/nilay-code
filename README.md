@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently  **a Final year student in the Computer Science Program at Stamford University**
+- 🔭 I’m currently  **a Final year student in the Computer Science Program**
 
 - 🌱 I’m currently  **learning everything 🤣**
 
