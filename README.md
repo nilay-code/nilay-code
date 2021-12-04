@@ -12,6 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+- 👨‍💻 My HackerRank profile **www.hackerrank.com/nilaydebnath991**
 
 - 📫 How to reach me **nilaydebnath99@gmail.com**
 
