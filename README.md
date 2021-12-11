@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I love to play video games .**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -29,7 +29,19 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 </p>
 
+## 👨‍💻 IDE and Code Editors:
 
+<p align="left"> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a> 
+    <a style="padding-right:8px;" href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="40" 
+     height="40"/> </a> 
+    <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png" width="40" 
+     height="40"/> </a> 
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.png" width="40" 
+     height="40"/> </a> 
+</p>
 <br/>
 
 <p align="center">
