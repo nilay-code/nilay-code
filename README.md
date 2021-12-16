@@ -73,7 +73,7 @@
 <a href = "https://www.linkedin.com/in/nilay-debnath-5467311a9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/nilaydebnath99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nilay_debnath/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.hackerrank.com/nilaydebnath991"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
+<a href = "https://www.hackerrank.com/nilaydebnath991"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/42/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
 
 </p>
 
