@@ -61,9 +61,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/nilay-code/github-readme-activity-graph"><img alt="Nilay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilay-code&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
