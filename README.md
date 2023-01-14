@@ -33,7 +33,6 @@
 
 <p align="left"> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a> 
-    <a style="padding-right:8px;" href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="40" 
      height="40"/> </a> 
