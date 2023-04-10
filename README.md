@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently  **a Final year student in the Computer Science Program**
+- 🔭 I’m currently  **working at SRTL as Business Development & IT Executive**
 
 - 🌱 I’m currently  **learning everything 🤣**
 
