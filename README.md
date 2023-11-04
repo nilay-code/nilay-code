@@ -6,9 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently  **working at SRTL as Business Development & IT Executive**
 
-- 🌱 I’m currently  **learning everything 🤣**
+- 🌱 I’m currently  **learning new technology 🤣**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
